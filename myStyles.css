@@ -34,14 +34,11 @@ ul {
     
 }
 .title {
-    
-
-    width: 70%;
-    
+    text-align: center;
 }
 .persona {
     font-size: 100px;
-    padding-top: 50px;
+    
 }
 iframe {
     border-radius: 3%;
@@ -53,4 +50,12 @@ iframe {
     background-color: black;
     color: red;
     font-family: URW Chancery L, cursive;
+    
+}
+.out {
+    display: flex;
+    height: auto;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
 }
