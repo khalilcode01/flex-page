@@ -1,1 +1,1 @@
-# flex-page
+landing a page for Theodinproject curriculum
