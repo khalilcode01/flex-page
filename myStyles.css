@@ -40,7 +40,7 @@ ul {
     font-size: 100px;
     
 }
-iframe {
+video {
     border-radius: 3%;
     border-style: none;
 }
@@ -69,6 +69,7 @@ iframe {
 }
 .middle img {
     height: 250px;
+
     margin-bottom: -3px;
 }
 .color {
@@ -76,6 +77,4 @@ iframe {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: 50px;
-    
-    
 }
